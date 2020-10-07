@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jouribe.Tools.MassInserts.L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jouribe.Tools.MassInserts.Framework", "Jouribe.Tools.MassInserts.Framework\Jouribe.Tools.MassInserts.Framework.csproj", "{9E71C316-86FC-4682-BF87-A638554B40A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jouribe.Tools.MassInserts.Framework.Tests", "Jouribe.Tools.MassInserts.Framework.Tests\Jouribe.Tools.MassInserts.Framework.Tests.csproj", "{224B5149-24F9-42CC-9692-F4BE76A0C6E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{9E71C316-86FC-4682-BF87-A638554B40A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E71C316-86FC-4682-BF87-A638554B40A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E71C316-86FC-4682-BF87-A638554B40A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{224B5149-24F9-42CC-9692-F4BE76A0C6E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{224B5149-24F9-42CC-9692-F4BE76A0C6E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{224B5149-24F9-42CC-9692-F4BE76A0C6E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{224B5149-24F9-42CC-9692-F4BE76A0C6E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,6 +50,7 @@ Global
 		{4017AFB2-5ADD-47DB-81EB-EBFBB42740C7} = {A3BF118C-3646-4E97-8496-9C5B19C84127}
 		{3C96BDAE-BFD2-4857-A9C2-412EB8626FE4} = {A3BF118C-3646-4E97-8496-9C5B19C84127}
 		{9E71C316-86FC-4682-BF87-A638554B40A2} = {A3BF118C-3646-4E97-8496-9C5B19C84127}
+		{224B5149-24F9-42CC-9692-F4BE76A0C6E4} = {A3BF118C-3646-4E97-8496-9C5B19C84127}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EC2B6A81-A12F-4732-82F5-35E69FBF642B}

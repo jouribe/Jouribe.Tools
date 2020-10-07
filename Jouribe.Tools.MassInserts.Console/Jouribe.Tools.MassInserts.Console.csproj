@@ -5,4 +5,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Jouribe.Tools.MassInserts.Framework\Jouribe.Tools.MassInserts.Framework.csproj" />
+    <ProjectReference Include="..\Jouribe.Tools.MassInserts.Library\Jouribe.Tools.MassInserts.Library.csproj" />
+  </ItemGroup>
+
 </Project>
