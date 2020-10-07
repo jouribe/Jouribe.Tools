@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Jouribe.Tools.MassInserts", "Jouribe.Tools.MassInserts", "{A3BF118C-3646-4E97-8496-9C5B19C84127}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jouribe.Tools.MassInserts.Application", "Jouribe.Tools.MassInserts.Application\Jouribe.Tools.MassInserts.Application.csproj", "{8AE2D0D9-27FE-4FAE-8663-4881F6F30582}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jouribe.Tools.MassInserts.Console", "Jouribe.Tools.MassInserts.Console\Jouribe.Tools.MassInserts.Console.csproj", "{4017AFB2-5ADD-47DB-81EB-EBFBB42740C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jouribe.Tools.MassInserts.Library", "Jouribe.Tools.MassInserts.Library\Jouribe.Tools.MassInserts.Library.csproj", "{3C96BDAE-BFD2-4857-A9C2-412EB8626FE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jouribe.Tools.MassInserts.Framework", "Jouribe.Tools.MassInserts.Framework\Jouribe.Tools.MassInserts.Framework.csproj", "{9E71C316-86FC-4682-BF87-A638554B40A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AE2D0D9-27FE-4FAE-8663-4881F6F30582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE2D0D9-27FE-4FAE-8663-4881F6F30582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE2D0D9-27FE-4FAE-8663-4881F6F30582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE2D0D9-27FE-4FAE-8663-4881F6F30582}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4017AFB2-5ADD-47DB-81EB-EBFBB42740C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4017AFB2-5ADD-47DB-81EB-EBFBB42740C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4017AFB2-5ADD-47DB-81EB-EBFBB42740C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4017AFB2-5ADD-47DB-81EB-EBFBB42740C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C96BDAE-BFD2-4857-A9C2-412EB8626FE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C96BDAE-BFD2-4857-A9C2-412EB8626FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C96BDAE-BFD2-4857-A9C2-412EB8626FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C96BDAE-BFD2-4857-A9C2-412EB8626FE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E71C316-86FC-4682-BF87-A638554B40A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E71C316-86FC-4682-BF87-A638554B40A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E71C316-86FC-4682-BF87-A638554B40A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E71C316-86FC-4682-BF87-A638554B40A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8AE2D0D9-27FE-4FAE-8663-4881F6F30582} = {A3BF118C-3646-4E97-8496-9C5B19C84127}
+		{4017AFB2-5ADD-47DB-81EB-EBFBB42740C7} = {A3BF118C-3646-4E97-8496-9C5B19C84127}
+		{3C96BDAE-BFD2-4857-A9C2-412EB8626FE4} = {A3BF118C-3646-4E97-8496-9C5B19C84127}
+		{9E71C316-86FC-4682-BF87-A638554B40A2} = {A3BF118C-3646-4E97-8496-9C5B19C84127}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC2B6A81-A12F-4732-82F5-35E69FBF642B}
+	EndGlobalSection
+EndGlobal
